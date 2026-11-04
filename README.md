@@ -1,21 +1,21 @@
-# 📜 Certifications & Credentials
+# Certifications & Credentials
 
 An organized archive of professional certifications, specializations, and foundational credentials in **Data Engineering**, **Machine Learning**, **Analytics**, and **Software Engineering**.
 
 ---
 
-## ☁️ Cloud & Data Engineering
+## Cloud & Data Engineering
 
-| Credential | Issuer / Platform | Issued / Year |
+| Credential | Issuer / Platform | Issued / Validity |
 | :--- | :--- | :--- |
-| [Microsoft Certified: Fabric Data Engineer Associate](./Microsoft%20Certified%20-%20Fabric%20Data%20Engineer%20Associate.pdf) | Microsoft | Nov 2025 |
-| [Microsoft Certified: Power BI Data Analyst Associate](./Microsoft_Power_BI_Data_Analyst_Associate.pdf) | Microsoft | Oct 2026 |
+| [Microsoft Certified: Fabric Data Engineer Associate](./Microsoft%20Certified%20-%20Fabric%20Data%20Engineer%20Associate.pdf) | Microsoft | Nov 2025 (Renewed thru Nov 2027) |
+| [Microsoft Certified: Power BI Data Analyst Associate](./Microsoft_Power_BI_Data_Analyst_Associate.pdf) | Microsoft | Oct 2026 (Valid thru Oct 2027) |
 | [Data Engineering on AWS - Foundations](./Data%20Engineering%20on%20AWS%20-%20Foundations.pdf) | AWS Training & Certification | Jun 2025 |
 | [Introduction to Big Data](./Intro%20to%20BIgData.pdf) | UC San Diego (Coursera) | Oct 2023 |
 
 ---
 
-## 🧠 Machine Learning & Data Science
+## Machine Learning & Data Science
 
 | Credential | Issuer / Platform | Issued / Year |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ An organized archive of professional certifications, specializations, and founda
 
 ---
 
-## 🗄️ Databases & Development
+## Databases & Development
 
 | Credential | Issuer / Platform | Issued / Year |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ An organized archive of professional certifications, specializations, and founda
 
 ---
 
-## 🛠️ Workshops, Bootcamps & Competitions
+## Workshops, Bootcamps & Competitions
 
 | Activity | Organization |
 | :--- | :--- |
